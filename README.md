@@ -1,10 +1,5 @@
 Hey there! I'm Aryan0x
 🕶️ Cybersecurity Enthusiast | Ethical Hacker | Finance Geek
-____ ____ _   _ ____ _  _ 
-|__| |__/  \_/  |__| |\ | 
-|  | |  \   |   |  | | \| 
-                          
-
 🚀 Hacking | Automation | Finance | Red Teaming | OSINT
 
 🔍 Passionate about penetration testing, exploit development, and digital forensics
